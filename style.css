@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containers{
+    padding-inline: 12%;
+}
+body{
+    background-color: black;
+}
+::placeholder{
+    color: black !important;
+    font-weight: bold;
+}
+.boyut{
+    width: 200px;
+    height: 50px;
+}
+.bg-karanlık{
+    background-color: #090909 !important;
+}
